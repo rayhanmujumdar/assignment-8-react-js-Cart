@@ -1,0 +1,10 @@
+.cartAdded{
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  .cartAdded{
+    height: auto;
+  } 
+}

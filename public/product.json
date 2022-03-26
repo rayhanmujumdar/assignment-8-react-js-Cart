@@ -1,0 +1,72 @@
+[
+  {
+    "id": "623ee24a312cd4e8c325d7a7",
+    "name": "Realme GT2 Pro",
+    "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-gt2-pro-1.jpg",
+    "price": 430,
+    "quantity": 0
+  },
+  {
+    "id": "623ee24a4da18a6e56ba3563",
+    "name": "Xiaomi 12",
+    "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12-1.jpg",
+    "price": 774,
+    "quantity": 0
+  },
+  {
+    "id": "623ee24a0348921f9b82e7f0",
+    "name": "Samsung Galaxy S22 5G",
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-5g-2.jpg",
+    "price": 1119,
+    "quantity": 0
+  },
+  {
+    "id": "623ee24a17387863a6a63013",
+    "name": "Apple iPhone 13",
+    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg",
+    "price": 977,
+    "quantity": 0
+  },
+  {
+    "id": "623ee24aaab8355259bbe493",
+    "name": "Apple iPhone 13 Pro Max",
+    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-01.jpg",
+    "price": 1099,
+    "quantity": 0
+  },
+  {
+    "id": "623ee24a1fbc89a47edce586",
+    "name": "Samsung Galaxy S21 Ultra 5G",
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-1.jpg",
+    "price": 1200,
+    "quantity": 0
+  },
+  {
+    "id": "623ee24a3e78c6bbfd3263bd",
+    "name": "Xiaomi Mi 11 Ultra",
+    "image": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi11-ultra-5g-k1-1.jpg",
+    "price": 850,
+    "quantity": 0
+  },
+  {
+    "id": "623ee24a4e878c6f30aaedac",
+    "name": "One plus 10 pro",
+    "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10-pro-1.jpg",
+    "price": 560,
+    "quantity": 0
+  },
+  {
+    "id": "623ee24a4e878c6f30aaedd8",
+    "name": "Huawei P50 Pro",
+    "image": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-p50-pro-0.jpg",
+    "price": 1002,
+    "quantity": 0
+  },
+  {
+    "id": "623ee24a4e878c6f30cafdcc",
+    "name": "Xiaomi redmi k50 pro",
+    "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10-pro-1.jpg",
+    "price": 450,
+    "quantity": 0
+  }
+]
